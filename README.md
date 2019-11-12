@@ -4,5 +4,5 @@ Python's libraries such as Beautiful Soup, Selenium, etc. can be used for webpag
 
 ---
 
-The writeup can be found [here](https://bit.ly/data_consolidation)
+The writeup can be found [here](https://bit.ly/pandas_scraper)
 
